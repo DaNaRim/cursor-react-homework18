@@ -149,6 +149,7 @@ const PostWrapper = styled.section`
 
       .post_wrap_arrow {
         color: #7f8f9c;
+        cursor: pointer;
       }
     }
 
