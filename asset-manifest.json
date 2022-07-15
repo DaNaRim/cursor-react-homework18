@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cursor-react-homework18/static/css/main.073c9b0a.css",
+    "main.js": "/cursor-react-homework18/static/js/main.667706ab.js",
+    "static/js/364.72290d1a.chunk.js": "/cursor-react-homework18/static/js/364.72290d1a.chunk.js",
+    "static/js/787.1acc48ea.chunk.js": "/cursor-react-homework18/static/js/787.1acc48ea.chunk.js",
+    "static/media/Ray-Lucas.png": "/cursor-react-homework18/static/media/Ray-Lucas.c5f71002a270e633a944.png",
+    "static/media/Anakin.jpg": "/cursor-react-homework18/static/media/Anakin.9482bac92d4c3d564b9f.jpg",
+    "index.html": "/cursor-react-homework18/index.html",
+    "main.073c9b0a.css.map": "/cursor-react-homework18/static/css/main.073c9b0a.css.map",
+    "main.667706ab.js.map": "/cursor-react-homework18/static/js/main.667706ab.js.map",
+    "364.72290d1a.chunk.js.map": "/cursor-react-homework18/static/js/364.72290d1a.chunk.js.map",
+    "787.1acc48ea.chunk.js.map": "/cursor-react-homework18/static/js/787.1acc48ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.667706ab.js"
+  ]
+}
